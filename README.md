@@ -1,20 +1,20 @@
 # 🚀 High-Performance Systems & Immersive Worlds
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0e75b6&height=200&section=header&text=Olcay%20Ayva&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olcay%20Ayva&fontSize=70&animation=fadeIn" />
 </p>
 
 ### ⚡ Software Engineer | Unity Backend Specialist | Multi-Stack Architect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=SYSTEM%20TRAFFIC&color=0e75b6&style=for-the-badge" alt="olcayayv" />
+  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="olcayayv" />
 </p>
 
 ---
 
 ### 💻 Executive Summary
 
-I am a **Software Engineer** dedicated to bridging the gap between high-performance game development and robust system architecture. My expertise lies in architecting **Unity Backend** ecosystems using **C#**, while developing scalable cross-platform solutions with **Python, Kotlin, and Java**. I specialize in transforming complex business logic into clean, optimized, and mission-critical code.
+I am a Software Engineer dedicated to bridging the gap between high-performance game development and robust system architecture. My expertise lies in architecting **Unity Backend** ecosystems using **C#**, while developing scalable cross-platform solutions with **Python, Kotlin, and Java**. I specialize in transforming complex business logic into clean, optimized, and mission-critical code.
 
 ---
 
@@ -55,11 +55,12 @@ I am a **Software Engineer** dedicated to bridging the gap between high-performa
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&count_private=true" alt="Olcay's GitHub stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=olcayayv&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
