@@ -1,20 +1,28 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olcay%20Ayva&fontSize=80&animation=fadeIn&fontAlignY=38" />
-</p>
+<h1 align="center">🚀 Olcay Ayva</h1>
+<h3 align="center">System-Oriented Developer | Unity & Backend Engineer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=24&center=true&vCenter=true&width=600&lines=Unity+Developer;Backend+Engineer;C%23+Architect;Python+Developer;Kotlin+%7C+Java+Developer;Clean+Architecture+Enthusiast" />
 </p>
 
-## ⚡ System.Runtime.Olcay;
+---
+
+## 👨‍💻 About Me
 
 ```csharp
-public class OlcayAyva : Developer {
-    public string Focus   => "Unity Backend & High Performance Systems";
-    public string[] Tech  => new[] { "C#", "Python", "Kotlin", "Java" };
-    public string Mission => "Building scalable digital universes.";
+public class OlcayAyva
+{
+    public string Role = "Developer";
+    public string[] Stack = { "Unity", "C#", "Backend", "Python", "Kotlin", "Java" };
+
+    public void Build()
+    {
+        while(true)
+        {
+            Learn();
+            Architect();
+            Develop();
+            Optimize();
+        }
+    }
 }
