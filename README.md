@@ -1,91 +1,73 @@
-# 🚀 High-Performance Systems & Immersive Worlds
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Olcay%20Ayva&fontSize=70&animation=fadeIn" />
-</p>
-
-### ⚡ Software Engineer | Unity Backend Specialist | Multi-Stack Architect
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="olcayayv" />
-</p>
-
----
-
-### 💻 Executive Summary
-
-I am a Software Engineer dedicated to bridging the gap between high-performance game development and robust system architecture. My expertise lies in architecting **Unity Backend** ecosystems using **C#**, while developing scalable cross-platform solutions with **Python, Kotlin, and Java**. I specialize in transforming complex business logic into clean, optimized, and mission-critical code.
-
----
-
-### 🛠️ Strategic Tech Stack
-
-<table align="center">
-  <tr>
-    <td align="center" width="250"><strong>Game & Backend Engine</strong></td>
-    <td align="center" width="250"><strong>Scripting & Automation</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Mobile & Core Systems</strong></td>
-    <td align="center"><strong>Infrastructure & Versioning</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <br>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Engineering Metrics
-
-<p align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/render?type=kalo&color=auto&height=250&section=header&text=OLCAY%20AYVA&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20|%20Unity%20Backend%20Architect&descSize=22&descAlignY=55" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=olcayayv&theme=tokyonight&hide_border=true" />
+  <a href="https://linkedin.com/in/KENDI_LINKIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:KENDI_MAILIN@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=SYSTEM%20TRAFFIC&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-### 🔭 Current Objectives
+### ⚡ Operational Overview
 
-- 🏗️ **Architecting:** High-concurrency server-side frameworks for real-time Unity applications.
-- 🧪 **Mastering:** Microservices architecture and reactive programming in Kotlin.
-- 💬 **Consult me for:** C# optimization, Unity-to-Backend integration, and workflow automation.
-- ⚡ **Philosophy:** *"Code should not only execute efficiently; it should read like well-crafted literature."*
+> **"Code is the bridge between imagination and reality."** An adaptable Software Engineer specialized in high-concurrency **Unity Backend** systems. I architect robust infrastructures where performance meets scalability. Whether it’s **C#** for game logic or **Kotlin/Java/Python** for systems, I write code that is optimized for speed and built for longevity.
 
 ---
 
-### 📫 Secure a Connection
+### 🚀 Technical Arsenal
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINK_HERE" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="olcayayva" /></a>
-<a href="mailto:YOUR_EMAIL@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="olcayayva" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="200px" />
+</p>
+
+#### **Development Frameworks & Languages**
+| Core | Stack |
+| :--- | :--- |
+| **Game Systems** | `C#` • `Unity Engine` • `Shader Lab` |
+| **Backend & Scalability** | `Java` • `Kotlin` • `Python` • `Node.js` |
+| **DevOps & Data** | `Git` • `Docker` • `PostgreSQL` • `Redis` |
+
+---
+
+### 📊 System Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=olcayayv&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=olcayayv&theme=tokyonight" width="100%" />
 </p>
 
 ---
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <i>Engineered with precision by <b>Olcay Ayva</b>.</i>
-</p>
+### 🛠️ Current Research & Development
+
+- 🛰️ **In Development:** High-concurrency server-side architectures for real-time multiplayer systems.
+- 🧪 **Deep Diving:** Microservices design patterns and Reactive Streams in Kotlin.
+- 🎯 **Focus:** Ultra-low latency communication between Unity clients and custom backends.
+- 💬 **Ask me about:** Why `O(1)` is better than `O(n)`, Unity performance profiling, or automating the boring stuff.
+
+---
+
+### 🧩 Engineering Mindset
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Olcay Ayva"
+        self.role = "Software Engineer"
+        self.passion = "Clean Code & Performance"
+
+    def philosophy(self):
+        return "Writing code that machines execute, but humans enjoy reading."
+
+olcay = Developer()
+print(olcay.philosophy())
