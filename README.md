@@ -55,12 +55,11 @@ I am a **Software Engineer** dedicated to bridging the gap between high-performa
 ### 📊 Engineering Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&count_private=true" alt="Olcay's GitHub stats" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=olcayayv&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
