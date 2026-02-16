@@ -27,8 +27,8 @@ I am a developer who builds bridges between game development and system architec
 ### 📊 My GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://stats.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://gh-stats-gen.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://gh-stats-gen.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight" />
 </p>
 
 ---
