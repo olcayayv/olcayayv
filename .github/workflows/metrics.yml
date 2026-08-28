@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # Her gece otomatik güncellenmesi için
+  schedule: [{cron: "0 0 * * *"}]
+  # İstediğin zaman manuel güncelleyebilmen için
+  workflow_dispatch:
+  # Her değişiklik yaptığında tetiklenmesi için
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # GitHub'ın kendi sağladığı standart token
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Europe/Istanbul
+          
+          # Görseldeki 3D commit takvimi (İzometrik)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Dil istatistikleri (En çok kullandığın teknolojileri listeleyecek)
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          
+          # Kodlama alışkanlıkları ve aktif olduğun saat grafikleri
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
