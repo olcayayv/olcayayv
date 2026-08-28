@@ -1,46 +1,28 @@
-# 🚀 Hi, I'm Olcay Ayva!
-### Software Engineer | Unity Backend Specialist | Multi-Language Developer
+<h1 align="center">👋 Merhaba, ben Olcay!</h1>
+<h3 align="center">Junior Yazılım Geliştirici & Oyun Programcısı 🎮</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=Profile%20Views&color=0e75b6&style=flat" alt="olcayayv" />
-</p>
-
----
-
-### 💻 About Me
-
-I am a developer who builds bridges between game development and system architecture. While producing in-depth **C# Backend** solutions within the **Unity** ecosystem, I also develop scalable projects using **Python**, **Kotlin**, and **Java**. Transforming complex logic into clean and optimized code is my greatest passion.
-
----
-
-### 🛠️ Tech Stack
-
-| Field | Tools & Languages |
-| :--- | :--- |
-| **Game Dev & Backend** | ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-101010?style=flat-square&logo=unity&logoColor=white) |
-| **Scripting & Data** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Mobile & Systems** | ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-
----
-
-### 🔭 What I'm Currently Working On
-
-- 🔭 **Currently Building:** High-performance server-side architectures for Unity.
-- 🌱 **Continuous Growth:** Microservice architectures and modern Android practices with Kotlin.
-- 💬 **Ask Me About:** C# optimization, Unity backend integration, or Python automation.
-- ⚡ **Motto:** "Code should not only work, it should read like poetry."
-
----
-
-### 📫 Contact Me
-
-<p align="left">
-<a href="https://linkedin.com/in/KENDI_LINKIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olcayayva" height="30" width="40" /></a>
-<a href="mailto:olcayayv@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="olcayayva" height="30" width="40" /></a>
-</p>
-
----
 <p align="center">
-  <i>This profile was built with code by <b>Olcay Ayva</b>.</i>
+  <img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profil%20Ziyaretçisi&color=blue&style=flat-square" alt="visitor badge" />
+</p>
+
+---
+
+### 🛠️ Kullandığım Teknolojiler & Araçlar
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+---
+
+### 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
