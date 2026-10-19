@@ -17,7 +17,6 @@
 
 <br/>
 
-<!-- ═══════════ ABOUT ═══════════ -->
 ## 🎮 Hakkımda
 
 ```csharp
@@ -47,7 +46,6 @@ public class OlcayAyva : Developer
 
 <br/>
 
-<!-- ═══════════ TECH ═══════════ -->
 ## 🛠️ Teknolojiler
 
 <p align="center">
@@ -56,17 +54,14 @@ public class OlcayAyva : Developer
 
 <br/>
 
-<!-- ═══════════ STATS ═══════════ -->
 ## 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=24C6DC&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olcayayv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=olcayayv&theme=tokyonight&hide_border=true&background=0f0c29&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" />
-</p>
+<table align="center">
+  <tr>
+    <td><img width="420" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=24C6DC&text_color=c9d1d9&count_private=true&include_all_commits=true" /></td>
+    <td><img width="420" src="https://streak-stats.demolab.com?user=olcayayv&theme=tokyonight&hide_border=true&background=0f0c29&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" /></td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=olcayayv&bg_color=0f0c29&color=24C6DC&line=24C6DC&point=ffffff&area=true&area_color=24C6DC&hide_border=true" width="100%" />
@@ -74,7 +69,14 @@ public class OlcayAyva : Developer
 
 <br/>
 
-<!-- ═══════════ CONNECT ═══════════ -->
+## 🏆 Başarılar
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=olcayayv&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+</p>
+
+<br/>
+
 ## 🌐 İletişim
 
 <p align="center">
