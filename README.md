@@ -7,48 +7,46 @@
 </p>
 
 <p align="center">
-  <a href="https://olcayayv.com"><img src="https://img.shields.io/badge/PORTFOLIO-olcayayv.com-FFFFFF?style=flat-square&labelColor=161B22&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/olcayayva/"><img src="https://img.shields.io/badge/LINKEDIN-Olcay%20Ayva-FFFFFF?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=VIEWS&color=FFFFFF&labelColor=161B22&style=flat-square" />
+  <a href="https://olcayayv.com"><img src="https://img.shields.io/badge/olcayayv.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/olcayayva/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=views&color=0d1117&style=for-the-badge" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/olcayayv/olcayayv/output/snake.svg" width="100%" />
 </p>
 
 ---
 
 ## ▍ABOUT
 
-```bash
-$ whoami
-olcay ayva — game & software developer
-
-$ cat stack.txt
-Unity · C# · Java · Kotlin · Python
-
-$ echo $MISSION
-build interactive experiences people remember
-
-$ git log --oneline -1
-shipping. always.
+```yaml
+name:      Olcay Ayva
+role:      Game & Software Developer
+engine:    Unity
+languages: [C#, Java, Kotlin, Python]
+focus:     gameplay systems · prototyping · clean code
+motto:     "build things people remember"
+status:    shipping.
 ```
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">🎮<br/><b>Game Dev</b><br/><sub>Gameplay & systems in Unity</sub></td>
-    <td align="center" width="33%">⚙️<br/><b>Software Dev</b><br/><sub>Clean, modern applications</sub></td>
-    <td align="center" width="33%">🧪<br/><b>Prototyping</b><br/><sub>Ideas to playable, fast</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <sub>◆ GAMEPLAY SYSTEMS &nbsp;&nbsp;·&nbsp;&nbsp; ◆ RAPID PROTOTYPING &nbsp;&nbsp;·&nbsp;&nbsp; ◆ SOFTWARE ENGINEERING</sub>
+</p>
 
 ---
 
 ## ▍STACK
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Unity-161B22?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C%23-161B22?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-161B22?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Python-161B22?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-161B22?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
@@ -56,27 +54,16 @@ shipping. always.
 ## ▍STATS
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&border_color=30363D&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&ring_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=olcayayv&background=0D1117&border=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olcayayv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=8B949E&hide_border=true&radius=10&title_color=FFFFFF&custom_title=Contribution%20Graph" width="100%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&hide_rank=true&hide=prs,issues,contribs&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=30363D&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&border_radius=8&custom_title=Overview" />
+  <img height="165" src="https://streak-stats.demolab.com?user=olcayayv&background=0D1117&border=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=8" />
 </p>
 
 ---
 
-## ▍CONNECT
-
 <p align="center">
-  <sub>Got an idea? Let's build it.</sub>
+  <sub>Got an idea? Let's build it. → <a href="https://olcayayv.com">olcayayv.com</a></sub>
 </p>
 
 <p align="center">
-  <a href="https://olcayayv.com"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&labelColor=161B22&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/olcayayva/"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:3a3a3a,50:161616,100:000000&height=140&section=footer&reversal=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:3a3a3a,50:161616,100:000000&height=120&section=footer&reversal=true" width="100%" />
 </p>
