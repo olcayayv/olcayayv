@@ -1,93 +1,82 @@
-<!-- ═══════════ HEADER ═══════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=220&section=header&text=Olcay%20Ayva&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Game%20Developer%20%E2%80%A2%20Software%20Developer&descSize=20&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,50:161616,100:3a3a3a&height=260&section=header&text=OLCAY%20AYVA&fontSize=64&fontColor=FFFFFF&animation=fadeIn&desc=GAME%20DEVELOPER%20%C2%B7%20SOFTWARE%20DEVELOPER&descSize=18&descAlignY=62" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/olcayayv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Olcay;I+build+games+with+Unity+%26+C%23+%F0%9F%8E%AE;I+turn+ideas+into+playable+experiences+%E2%9A%A1;Always+experimenting%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&repeat=true&lines=I+build+games+people+remember;Unity+%C2%B7+C%23+%C2%B7+Gameplay+%C2%B7+Systems;Experiments+become+products;Currently+shipping..." alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://olcayayv.com"><img src="https://img.shields.io/badge/Portfolio-olcayayv.com-24C6DC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/olcayayva/"><img src="https://img.shields.io/badge/LinkedIn-Olcay%20Ayva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=Profile%20Views&color=302b63&style=for-the-badge" />
+  <a href="https://olcayayv.com"><img src="https://img.shields.io/badge/PORTFOLIO-olcayayv.com-FFFFFF?style=flat-square&labelColor=161B22&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/olcayayva/"><img src="https://img.shields.io/badge/LINKEDIN-Olcay%20Ayva-FFFFFF?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=olcayayv&label=VIEWS&color=FFFFFF&labelColor=161B22&style=flat-square" />
 </p>
 
-<br/>
+---
 
-## 🎮 Hakkımda
+## ▍ABOUT
 
-```csharp
-public class OlcayAyva : Developer
-{
-    public string Role      = "Game & Software Developer";
-    public string[] Engines = { "Unity" };
-    public string[] Skills  = { "C#", "Java", "Kotlin", "Python" };
-    public string Mission   = "Build interactive experiences people remember.";
+```bash
+$ whoami
+olcay ayva — game & software developer
 
-    public void Update()
-    {
-        Learn();
-        Build();
-        Ship();   // repeat 🔁
-    }
-}
+$ cat stack.txt
+Unity · C# · Java · Kotlin · Python
+
+$ echo $MISSION
+build interactive experiences people remember
+
+$ git log --oneline -1
+shipping. always.
 ```
-
-<table>
-  <tr>
-    <td>🎮 <b>Oyun geliştirme</b><br/>Unity & C# ile oynanış ve sistemler</td>
-    <td>💻 <b>Yazılım geliştirme</b><br/>Modern uygulamalar, temiz kod</td>
-    <td>🧪 <b>Deney</b><br/>Yeni fikirleri hızlıca prototipleme</td>
-  </tr>
-</table>
-
-<br/>
-
-## 🛠️ Teknolojiler
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,java,kotlin,python,git,github,vscode&perline=8" />
-</p>
-
-<br/>
-
-## 📊 GitHub İstatistikleri
 
 <table align="center">
   <tr>
-    <td><img width="420" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24C6DC&icon_color=24C6DC&text_color=c9d1d9&count_private=true&include_all_commits=true" /></td>
-    <td><img width="420" src="https://streak-stats.demolab.com?user=olcayayv&theme=tokyonight&hide_border=true&background=0f0c29&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" /></td>
+    <td align="center" width="33%">🎮<br/><b>Game Dev</b><br/><sub>Gameplay & systems in Unity</sub></td>
+    <td align="center" width="33%">⚙️<br/><b>Software Dev</b><br/><sub>Clean, modern applications</sub></td>
+    <td align="center" width="33%">🧪<br/><b>Prototyping</b><br/><sub>Ideas to playable, fast</sub></td>
   </tr>
 </table>
 
+---
+
+## ▍STACK
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olcayayv&bg_color=0f0c29&color=24C6DC&line=24C6DC&point=ffffff&area=true&area_color=24C6DC&hide_border=true" width="100%" />
+  <img src="https://img.shields.io/badge/-Unity-161B22?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-161B22?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-161B22?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kotlin-161B22?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-161B22?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-161B22?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<br/>
+---
 
-## 🏆 Başarılar
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=olcayayv&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
-</p>
-
-<br/>
-
-## 🌐 İletişim
+## ▍STATS
 
 <p align="center">
-  Bir proje fikrin mi var? Konuşalım! 🚀
-</p>
-
-<p align="center">
-  <a href="https://olcayayv.com"><img src="https://img.shields.io/badge/🌍_Portfolio-302b63?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/olcayayva/"><img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=olcayayv&show_icons=true&border_color=30363D&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF&ring_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=olcayayv&background=0D1117&border=30363D&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=olcayayv&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=8B949E&hide_border=true&radius=10&title_color=FFFFFF&custom_title=Contribution%20Graph" width="100%" />
+</p>
+
+---
+
+## ▍CONNECT
+
+<p align="center">
+  <sub>Got an idea? Let's build it.</sub>
+</p>
+
+<p align="center">
+  <a href="https://olcayayv.com"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&labelColor=161B22&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/olcayayva/"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&labelColor=161B22&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:3a3a3a,50:161616,100:000000&height=140&section=footer&reversal=true" width="100%" />
 </p>
