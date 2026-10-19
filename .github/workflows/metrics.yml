@@ -15,22 +15,14 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Eski dosyandaki token satırını aynen koru (secret adın farklıysa onu yaz)
           token: ${{ secrets.GITHUB_TOKEN }}
-
           filename: github-metrics.svg
           user: olcayayv
           config_timezone: Europe/Istanbul
-
-          # Boş görünen "community" bölümünü çıkardık
           base: header, activity, repositories
-
-          # Kullandığın diller (public repolarında kod olunca dolar)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-
-          # 3D katkı takvimi
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
